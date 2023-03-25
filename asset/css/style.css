@@ -89,6 +89,7 @@ img {
         min-height: 100wh;
         width: var(--sidbar-wisth);
         background: linear-gradient(var(--color-base2));
+        background-size: cover;
     }
 }
 
@@ -105,6 +106,7 @@ img {
     padding-top: 80px;
     padding-bottom: 80px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+
 
 }
 
